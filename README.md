@@ -18,4 +18,6 @@ Several different methods were applied to create different models for the classi
 
 <b> 5. N-ary conversion of DCTs of RGB images </b>
 
-A Convolutional Neural Network (CNN) model was created from scratch on RGB channels of the images. This model
+The model used for the classification had the following summary:
+
+![RGB + Augmentation Model](https://user-images.githubusercontent.com/41177970/84627152-ff3a6080-af03-11ea-8454-7a84b4062f53.JPG)
