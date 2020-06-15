@@ -6,21 +6,16 @@ This project shows how to classify Land Use images using various Image processin
 
 ## Different Methods applied:
 
-### 1. CNN model on RGB images
+Several different methods were applied to create different models for the classification purpose. Five models that were created are:  
 
+<b> 1. CNN model on RGB images </b>
 
+<b> 2. CNN model on DCTs of RGB images </b>
 
-### 2. CNN model on DCTs of RGB images
+<b> 3. Model ensemble with RGB images and their LBPs </b>
 
+<b> 4. Model ensemble with RGB images and their DCTs </b>
 
+<b> 5. N-ary conversion of DCTs of RGB images </b>
 
-### 3. Model ensemble with RGB images and their LBPs
-
-
-
-### 4. Model ensemble with RGB images and their DCTs
-
-
-
-### 5. N-ary conversion of DCTs of RGB images
-
+A Convolutional Neural Network (CNN) model was created from scratch on RGB channels of the images. This model
